@@ -140,13 +140,3 @@ def handle_upload_youtube(message):
 
 
 bot.polling()
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
